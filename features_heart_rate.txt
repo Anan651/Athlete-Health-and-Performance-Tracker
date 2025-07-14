@@ -1,0 +1,8 @@
+age
+weight_kg
+duration_minutes
+intensity
+daily_steps
+bmi
+vo2_max
+calories

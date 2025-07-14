@@ -1,0 +1,6 @@
+age
+weight_kg
+duration_minutes
+daily_steps
+bmi
+calories
