@@ -56,7 +56,7 @@ Both models are trained, optimized, evaluated, and deployed using **Python**, **
 | ------------------- | ----------------------------------------------------------------------- |
 | `fitness.py`        | Full AI pipeline: data preprocessing, training, evaluation, Gradio apps |
 | `best_xgb.pkl`      | Trained XGBoost model for heart rate prediction                         |
-| `gb_model_MT.pkl`   | Trained Gradient Boosting model for max play time prediction            |
+| `gb_model_MT.pkl`   | Trained XGBoost model for max play time prediction            |
 | `feature_names.txt` | Saved feature list for inference                                        |
 | `merged_file.csv`   | Cleaned and engineered dataset used for model training                  |
 
